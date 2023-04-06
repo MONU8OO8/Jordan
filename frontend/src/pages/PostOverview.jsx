@@ -3,7 +3,7 @@ import axios from "axios";
 import Swal from "sweetalert2";
 import Card from "../Components/Card";
 import cimg1 from "../images/cimg1.jpg";
-import cimg2 from "../images/cimg2.jpg";
+import cimg2 from "../images/img1.png";
 
 const PostOverview = () => {
   const [allposts, setAllposts] = useState([]);
